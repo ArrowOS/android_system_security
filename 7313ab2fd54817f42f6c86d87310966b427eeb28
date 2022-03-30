@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c00da0bf_b2b4d522",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 231
+      },
+      "writtenOn": "2022-03-30T18:03:12Z",
+      "side": 1,
+      "message": "break lock screen setup on exynos9810 devices",
+      "revId": "7313ab2fd54817f42f6c86d87310966b427eeb28",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
